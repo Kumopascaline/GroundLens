@@ -1,0 +1,16 @@
+community,region,population,water_distance_km,disease_rate_per_1000,school_enrollment_pct,road_access_score,drought_risk_index
+Nkolbisson-Sud,Centre,4200,6.8,42,58,35,70
+Mvog-Betsi,Centre,3100,3.1,71,64,55,40
+Biyem-Assi Nord,Centre,6800,2.4,58,49,70,30
+Etoa-Meki,Centre,2200,5.5,29,72,40,55
+Nsimeyong,Centre,3900,4.0,47,61,50,45
+Odza Rural,Centre,1500,7.9,33,68,25,75
+Bafia Centre,Centre,5100,3.6,52,55,60,50
+Ngoumou,Centre,2600,8.5,39,45,20,80
+Bansoa,West,3300,4.9,61,50,45,35
+Foumbot Est,West,4700,2.9,44,66,65,30
+Dschang Peripherie,West,5600,3.3,36,74,58,25
+Bafut,North West,3800,6.1,55,52,38,42
+Kumbo Rural,North West,4400,5.2,68,47,33,48
+Garoua Sahel,North,2900,9.6,74,38,22,92
+Maroua Nord,Far North,6200,10.4,81,34,18,95
